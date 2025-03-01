@@ -1,7 +1,7 @@
 # hi!
 made for code during learnathon @ BluePrint 2025!
 
-#tech stack~
+# tech stack~
 - learned Expo Go
 - React Native
 - working with github
